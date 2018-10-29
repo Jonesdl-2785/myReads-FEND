@@ -74,7 +74,7 @@ class HomePage extends React.Component {
       </div>
       </div>
       </div>
-      <div className = "open-search">
+      <div className = "open-search" title="Search Books">
       <Link to = "/searchpage">Add a book</Link>
       </div>
       </div>
