@@ -94,6 +94,10 @@ body, .app {
   background-image: url("imgs/rebel.png");
 }
 
+input, textarea {
+  color: #fff;
+}
+
 .close-search {
   display: block;
   top: 20px;
