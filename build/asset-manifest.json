@@ -1,11 +1,14 @@
 {
-  "main.css": "static/css/main.a2c12f86.css",
-  "main.css.map": "static/css/main.a2c12f86.css.map",
-  "main.js": "static/js/main.c53f5734.js",
-  "main.js.map": "static/js/main.c53f5734.js.map",
-  "static/media/add.svg": "static/media/add.bb9363b8.svg",
-  "static/media/arrow-back.svg": "static/media/arrow-back.3687aa98.svg",
-  "static/media/arrow-drop-down.svg": "static/media/arrow-drop-down.78c6f53b.svg",
-  "static/media/natural-paper.png": "static/media/natural-paper.1002c4fd.png",
-  "static/media/rebel.png": "static/media/rebel.8116573f.png"
+  "main.css": "/Jonesdl-2785/myReads-FEND/static/css/main.383edd12.chunk.css",
+  "main.js": "/Jonesdl-2785/myReads-FEND/static/js/main.863c3b69.chunk.js",
+  "main.js.map": "/Jonesdl-2785/myReads-FEND/static/js/main.863c3b69.chunk.js.map",
+  "static/js/1.4c56f981.chunk.js": "/Jonesdl-2785/myReads-FEND/static/js/1.4c56f981.chunk.js",
+  "static/js/1.4c56f981.chunk.js.map": "/Jonesdl-2785/myReads-FEND/static/js/1.4c56f981.chunk.js.map",
+  "runtime~main.js": "/Jonesdl-2785/myReads-FEND/static/js/runtime~main.f454bce5.js",
+  "runtime~main.js.map": "/Jonesdl-2785/myReads-FEND/static/js/runtime~main.f454bce5.js.map",
+  "static/media/App.css": "/Jonesdl-2785/myReads-FEND/static/media/natural-paper.1002c4fd.png",
+  "static/css/main.383edd12.chunk.css.map": "/Jonesdl-2785/myReads-FEND/static/css/main.383edd12.chunk.css.map",
+  "index.html": "/Jonesdl-2785/myReads-FEND/index.html",
+  "precache-manifest.715d867e256720441e9ffde57b810b74.js": "/Jonesdl-2785/myReads-FEND/precache-manifest.715d867e256720441e9ffde57b810b74.js",
+  "service-worker.js": "/Jonesdl-2785/myReads-FEND/service-worker.js"
 }
