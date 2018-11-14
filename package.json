@@ -5,6 +5,7 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-router-dom": "^4.3.1",
+    "update-node": "^0.1.0",
     "yarn": "^1.10.1"
   },
   "devDependencies": {
@@ -15,5 +16,19 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "name": "myreads-fend",
+  "description": "MyReads is a bookshelf app created with the React.js Framework. The app allows the user to choose books from one of three categories: currently reading, want to read and read.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonesdl-2785/myReads-FEND.git"
+  },
+  "author": "Diane L. Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonesdl-2785/myReads-FEND/issues"
+  },
+  "homepage": "https://github.com/Jonesdl-2785/myReads-FEND#readme"
 }
