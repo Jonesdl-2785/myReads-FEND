@@ -31,5 +31,11 @@
   "bugs": {
     "url": "https://github.com/Jonesdl-2785/myReads-FEND/issues"
   },
-  "homepage": "https://github.com/Jonesdl-2785/myReads-FEND#readme"
+  "homepage": "https://github.com/Jonesdl-2785/myReads-FEND#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
