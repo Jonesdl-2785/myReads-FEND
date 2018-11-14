@@ -2,9 +2,12 @@
 
 MyReads is a bookshelf app created with the React.js Framework. The app allows the user to choose books from one of three categories: currently reading, want to read and read.
 
+## Project Demo
+
+
 ## Application Requirements
 
-1.	Starter project can be downloaded or cloned from the REPOSITORY [here](git@github.com:Jonesdl-2785/myreads-react-project.git).
+1.	Starter project can be downloaded or cloned from the REPOSITORY [here: ](https://github.com:Jonesdl-2785/myreads-react-project.git).
 2.	Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
 
 ### Project Dependencies
