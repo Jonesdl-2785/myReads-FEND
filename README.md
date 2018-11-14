@@ -3,7 +3,7 @@
 MyReads is a bookshelf app created with the React.js Framework. The app allows the user to choose books from one of three categories: currently reading, want to read and read.
 
 ## Project Demo
-
+See project [demo](https://jonesdl-2785.github.io/myReads-FEND/).
 
 ## Application Requirements
 
